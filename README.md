@@ -2,7 +2,7 @@
 
 ## 1. Global GDP Growth Overview (2000-2010)
 
-![Global GDP Growth Overview](link-to-your-image-for-global-gdp-dashboard)
+![Global GDP Growth Overview](https://github.com/sujims22/Tableau_dashboards/blob/main/Images/Global_GDP.jpg)
 
 Explore the dashboard in detail [here](https://public.tableau.com/app/profile/sujitha.ravichandran/viz/GlobalGDPGrowthOverview2000-2010/Dashboard1).
 

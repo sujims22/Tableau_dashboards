@@ -10,6 +10,8 @@ Explore the dashboard in detail [here](https://public.tableau.com/app/profile/su
 
 ## 2. US Car Auction 
 
+**Description:** The 'US Car Auction' dashboard is an in-depth exploration of car auction sales data in the United States. It showcases detailed analytics on sales trends, pricing distributions, and buyer preferences. The dashboard is designed to offer insights for buyers, sellers, and market analysts.
+
 <img src="https://github.com/sujims22/Tableau_dashboards/blob/main/Images/US_Car_Auction.jpg" width="600" height="400"/>
 
 Check out the interactive analysis [here](https://public.tableau.com/app/profile/sujitha.ravichandran/viz/USCarAuction-ProjectGroup7_17004194454770/ExploringtheUSCarAuctionSales2).
